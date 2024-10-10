@@ -8,7 +8,7 @@
 
 ---
 
-### 🔗 [Classificador De Nível De Herói](https://github.com/Lucas-RM/desafios-de-codigo-curso-gft-dio/tree/main/ClassificadorDeNivelDeHeroi)
+### 1️⃣ [Classificador De Nível De Herói](https://github.com/Lucas-RM/desafios-de-codigo-curso-gft-dio/tree/main/ClassificadorDeNivelDeHeroi)
 
 #### 🔸 Desafio desenvolvido em C#
 
@@ -20,7 +20,7 @@
 
 ---
 
-### 🔗 [Calculadora De Partidas Rankeadas](https://github.com/Lucas-RM/desafios-de-codigo-curso-gft-dio/tree/main/CalculadoraDePartidasRankeadas)
+### 2️⃣ [Calculadora De Partidas Rankeadas](https://github.com/Lucas-RM/desafios-de-codigo-curso-gft-dio/tree/main/CalculadoraDePartidasRankeadas)
 
 #### 🔸 Desafio desenvolvido em C#
 
