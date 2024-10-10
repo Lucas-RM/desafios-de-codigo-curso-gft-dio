@@ -1,0 +1,58 @@
+# Ignore as pastas obj e bin em todas as subpastas
+**/bin/
+**/obj/
+
+# Arquivos de log
+**/*.log
+
+# Diretório de pacotes NuGet
+**/packages/
+# Se estiver usando o .NET Core
+**/!.nuget/
+**/!.tools/
+
+# Resultados da compilação
+**/*.exe
+**/*.dll
+**/*.pdb
+**/*.vcxproj.user
+**/*.dbmdl
+**/*.log
+
+# Arquivos de configuração temporários
+**/*.user
+**/*.rsuser
+**/*.suo
+**/*.userosscache
+**/*.sln.docstates
+
+# Diretório de cache do Visual Studio Code
+**/.vscode/
+
+# Arquivos de backup
+**/*~ 
+**/#*#
+**/.#*
+
+# Pastas temporárias
+**/temp/
+**/tmp/
+
+# Configurações específicas do IDE
+**/*.csproj.user
+**/*.csproj.nuget.g.props
+**/*.csproj.nuget.g.targets
+
+# Diretório de publicação local
+**/publish/
+
+# Arquivos do Rider
+**/.idea/
+**/.run/
+
+# Diretórios de Teste e Resultados
+**/TestResults/
+**/*.TestResults/
+
+# Pastas do sistema
+**/.vs/
