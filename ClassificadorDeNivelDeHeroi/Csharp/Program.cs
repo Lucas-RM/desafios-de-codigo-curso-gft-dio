@@ -21,12 +21,12 @@ string nivelDoHeroi = "";
 
 for (int i = 0; i < niveisDeHeroi.GetLength(0); i++)
 {
-    int.TryParse(niveisDeHeroi[i, 1], out int nivelMinimo);
-    bool temNivelMaximo = int.TryParse(niveisDeHeroi[i, 2], out int nivelMaximo);
+    int.TryParse(niveisDeHeroi[i, 1], out int xpMinimo);
+    bool temXpMaximo = int.TryParse(niveisDeHeroi[i, 2], out int xpMaximo);
 
     // Verifica se o XP está no intervalo correto
-    if ((temNivelMaximo && quantidadeDeXp >= nivelMinimo && quantidadeDeXp <= nivelMaximo) ||
-        (!temNivelMaximo && quantidadeDeXp >= nivelMinimo))
+    if ((temXpMaximo && quantidadeDeXp >= xpMinimo && quantidadeDeXp <= xpMaximo) ||
+        (!temXpMaximo && quantidadeDeXp >= xpMinimo))
     {
         nivelDoHeroi = niveisDeHeroi[i, 0];
         break;
