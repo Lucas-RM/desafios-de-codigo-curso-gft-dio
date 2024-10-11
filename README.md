@@ -29,3 +29,15 @@
 #### 🔸 Desafio desenvolvido em Javascript
 
 > 👨🏽‍💻 Clique [aqui](https://github.com/Lucas-RM/desafios-de-codigo-curso-gft-dio/blob/main/CalculadoraDePartidasRankeadas/Javascript/Program.js) para acessar o código em javascript.
+
+---
+
+### 3️⃣ [Classes de Um Jogo"](https://github.com/Lucas-RM/desafios-de-codigo-curso-gft-dio/tree/main/ClassesDeUmJogo)
+
+#### 🔸 Desafio desenvolvido em C#
+
+> 👨🏽‍💻 Clique [aqui](https://github.com/Lucas-RM/desafios-de-codigo-curso-gft-dio/blob/main/ClassesDeUmJogo/Csharp) para acessar o código em c#.
+
+#### 🔸 Desafio desenvolvido em Javascript
+
+> 👨🏽‍💻 Clique [aqui](https://github.com/Lucas-RM/desafios-de-codigo-curso-gft-dio/blob/main/ClassesDeUmJogo/Javascript) para acessar o código em javascript.
