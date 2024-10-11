@@ -12,7 +12,7 @@
 
 #### 🔸 Desafio desenvolvido em C#
 
-> 👨🏽‍💻 Clique [aqui](https://github.com/Lucas-RM/desafios-de-codigo-curso-gft-dio/blob/main/ClassificadorDeNivelDeHeroi/Csharp/Program.cs) para acessar o código em c#.
+> 👨🏽‍💻 Clique [aqui](https://github.com/Lucas-RM/desafios-de-codigo-curso-gft-dio/blob/main/ClassificadorDeNivelDeHeroi/Csharp) para acessar o código em c#.
 
 #### 🔸 Desafio desenvolvido em Javascript
 
@@ -24,7 +24,7 @@
 
 #### 🔸 Desafio desenvolvido em C#
 
-> 👨🏽‍💻 Clique [aqui](https://github.com/Lucas-RM/desafios-de-codigo-curso-gft-dio/blob/main/CalculadoraDePartidasRankeadas/Csharp/Program.cs) para acessar o código em c#.
+> 👨🏽‍💻 Clique [aqui](https://github.com/Lucas-RM/desafios-de-codigo-curso-gft-dio/blob/main/CalculadoraDePartidasRankeadas/Csharp) para acessar o código em c#.
 
 #### 🔸 Desafio desenvolvido em Javascript
 
@@ -32,7 +32,7 @@
 
 ---
 
-### 3️⃣ [Classes de Um Jogo"](https://github.com/Lucas-RM/desafios-de-codigo-curso-gft-dio/tree/main/ClassesDeUmJogo)
+### 3️⃣ [Classes de Um Jogo](https://github.com/Lucas-RM/desafios-de-codigo-curso-gft-dio/tree/main/ClassesDeUmJogo)
 
 #### 🔸 Desafio desenvolvido em C#
 
